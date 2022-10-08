@@ -4,7 +4,7 @@ darkx will help you as easy to crawling file extention using google dorks withou
 
 <code>./dorkx.sh nasa.gov</code><br>
 
-'
+''
 site:nasa.gov
 https://go.nasa.gov/34VFDzd
 https://go.nasa.gov/3LmKoS5
@@ -17,4 +17,4 @@ https://mars.nasa.gov/internal_resources/817/
 https://history.nasa.gov/presrep1962.pdf
 https://history.nasa.gov/sp4030.pdf
 
-'
+''
