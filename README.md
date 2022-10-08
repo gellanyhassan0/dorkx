@@ -3,6 +3,7 @@
 darkx will help you as easy to crawling file extention using google dorks without needing any api-key .
 
 <code>./dorkx.sh nasa.gov</code><br>
+<code>./dorkx.sh nasa.gov all</code><br>
 
 
 `site:nasa.gov`<br>
