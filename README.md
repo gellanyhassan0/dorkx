@@ -16,7 +16,3 @@ darkx will help you as easy to crawling file extention using google dorks withou
 `https://history.nasa.gov/90_day_study.pdf`<br>
 `https://mars.nasa.gov/internal_resources/817/`<br>
 `https://history.nasa.gov/sp4030.pdf`<br>
-
-
-
-
