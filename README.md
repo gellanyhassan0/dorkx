@@ -1,6 +1,6 @@
 # dorkx 
 
-darkx will help you as easy to crawling file extention using google dorks without needing any api-key .
+dorkx will help you as easy to crawling file extention using google dorks without needing any api-key .
 
 <code>./dorkx.sh nasa.gov filetype pdf</code><br>
 <code>./dorkx.sh nasa.gov filetype all</code><br>
