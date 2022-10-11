@@ -5,7 +5,7 @@ type=$2
 echo 'site:'$site
 
 
-basic() {
+dorkx_filetype() {
 
    cat dorks/filetype.txt|while read line ; do
    if [[ $type = "all" ]] ; then 
@@ -22,4 +22,4 @@ basic() {
 
 }
 
-basic
+dorkx_filetype
