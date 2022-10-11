@@ -4,6 +4,7 @@ dorkx will help you as easy to crawling file extention using google dorks withou
 
 <code>./dorkx.sh nasa.gov filetype pdf</code><br>
 <code>./dorkx.sh nasa.gov filetype all</code><br>
+<code>./dorkx.sh nasa.gov inurl all</code><br>
 
 
 `site:nasa.gov`<br>
